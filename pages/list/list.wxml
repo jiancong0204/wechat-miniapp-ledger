@@ -1,0 +1,3 @@
+<view class="user-login" bind:tap="onPressUserLogin">
+  <button type="primary">Login</button>
+</view>
